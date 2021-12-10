@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid red;
+}
+</style>
+<body style="background-color:royalblue;">
+
+<h2>Az órarendem</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Hétfő</th>
+    <th>Kedd</th>
+    <th>Szerda</th>
+    <th>Csütörtök</th>
+    <th>Péntek</th>
+  </tr>
+  <tr>
+    <td>1. Nyelvtan</td>
+    <td></td>
+    <td>1. Matek</td>
+    <td>1. Nyelvtan</td>
+    <td>1. Angol</td>
+  </tr>
+  <tr>
+    <td>2. Ofő</td>
+    <td>2. Angol</td>
+    <td>2. Töri</td>
+    <td>2. Programozás</td>
+    <td>2. Komplex</td>
+  </tr>
+  <tr>
+    <td>3. Magyar(komp)</td> 
+    <td>3. Komplex</td> 
+    <td>3. Infó-táv</td>
+    <td>3. Programozás</td>
+    <td>3. ITK</td>
+  </tr>
+  <tr>
+    <td>4. Tesi</td> 
+    <td>4. Matek</td> 
+    <td>4. Infó-táv</td> 
+    <td>4. Angol</td> 
+    <td>4. Tesi</td> 
+  </tr>
+  </body>
+  </html>
